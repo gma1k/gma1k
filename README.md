@@ -1,6 +1,6 @@
 # Greetings, humans! I'm Ghassan 👽
 
-I'm a DevOps engineer who loves to code, automate, secure and optimize everythings. 🛠
+I'm a DevOps engineer who loves to code, automate, secure and optimize things. 🛠
 
 - 🚀 I’m currently working on some awesome projects that make a difference.
 - 🧠 I’m always learning new things and exploring new technologies.
