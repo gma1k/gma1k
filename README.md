@@ -6,4 +6,4 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gma1k&theme=holi)](https://github.com/gma1k)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gma1k&layout=compact&theme=holi)](https://github.com/gma1k)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gma1k&layout=compact&theme=holi)](https://github.com/gma1k)
