@@ -2,8 +2,11 @@
 
 ---
 
-## Introducing: 
+## ⚡ Introducing: 
 I'm a DevOps engineer who loves to code, automate and optimize things. I have experience with various tools and technologies, I'm always learning new things and exploring new challenges.
+- I’m currently working on some awesome projects that make a difference 🚀 
+- Ask me anything about DevOps, coding, engineering, automation or security 💬
+- Fun fact: I love cooking, but sometimes I set off the smoke alarm 🔥
 
 ## 📫 How to reach me
 
