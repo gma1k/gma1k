@@ -1,11 +1,11 @@
 ---
 
-<a href="https://github.com/gma1k" target="_blank"><img src="https://readme-typing-svg.demolab.com/?lines=Ghassan+Malke;DevOps+DevSecOps+SRE;Always+learning+new+things;And+exploring+new+technologies" alt="Typing SVG"></a>
+## <a href="https://github.com/gma1k" target="_blank"><img src="https://readme-typing-svg.demolab.com/?lines=Ghassan+Malke;DevOps+DevSecOps+SRE;Always+learning+new+things;And+exploring+new+technologies" alt="Typing SVG"></a> 🐧
 
 ---
 
 ## ⚡ Introducing: 
-I'm a DevOps engineer who loves to code, automate and optimize things. I have experience with various tools and technologies, I'm always learning new things and exploring new challenges.
+I'm a DevOps engineer who loves to code, automate and optimize things. I have experience with various tools and technologies, I'm always learning new things and exploring new challenges 🐢
 - I’m currently working on some awesome projects that make a difference 🚀 
 - Ask me anything about DevOps, coding, engineering, automation or security 💬
 - Fun fact: I love cooking, but sometimes I set off the smoke alarm 🔥
