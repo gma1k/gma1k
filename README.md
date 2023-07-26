@@ -1,6 +1,6 @@
 ---
 
-## <a href="https://github.com/gma1k" target="_blank"><img src="https://readme-typing-svg.demolab.com/?lines=Ghassan+Malke;DevOps+DevSecOps+SRE;Always+learning+new+things;And+exploring+new+technologies" alt="Typing SVG"></a> 🐧
+## <a href="https://github.com/gma1k" target="_blank"><img src="https://readme-typing-svg.demolab.com/?lines=Ghassan+Malke;DevOps+DevSecOps+SRE;Always+learning+new+things;And+exploring+new+technologies" alt="Typing SVG"></a>  🐧
 
 ---
 
