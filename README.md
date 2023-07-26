@@ -13,8 +13,8 @@ I'm a DevOps engineer who loves to code, automate and optimize things. I have ex
 ---
 
 ## 🚀 Stats: 
-<a href="https://github.com/gma1k" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=gma1k&theme=holi" alt="Anurag's GitHub stats"></a>
-<a href="https://github.com/gma1k" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gma1k&layout=compact&theme=holi" alt="Top Langs"></a>
+### <a href="https://github.com/gma1k" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=gma1k&theme=holi" alt="Anurag's GitHub stats"></a>
+### <a href="https://github.com/gma1k" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gma1k&layout=compact&theme=holi" alt="Top Langs"></a>
 
 ---
 
