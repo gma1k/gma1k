@@ -13,13 +13,12 @@ I'm a DevOps engineer who loves to code, automate and optimize things. I have ex
 ---
 
 ## 🚀 Stats: 
-### <a href="https://github.com/gma1k" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=gma1k&theme=holi" alt="Anurag's GitHub stats"></a>
+### <a href="https://github.com/gma1k" target="_blank"><img src="https://github-readme-stats-github-readme-stats-team.vercel.app/api?username=gma1k&theme=holi" alt="Anurag's GitHub stats"></a>
 ### <a href="https://github.com/gma1k" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gma1k&layout=compact&theme=holi" alt="Top Langs"></a>
 
 ---
 
 ## 📫 How to reach me
-
 You can contact me by email or let's be connected:
 
 <a href="mailto:ghassan+github@malke.nl" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
