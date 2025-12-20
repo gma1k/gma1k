@@ -4,11 +4,9 @@
 
 ## ⚡ Introducing
 
-I'm a DevOps engineer who loves to code, automate and optimize stuffs. I have experience with various tools and technologies, I'm always learning new things and exploring new challenges 🐢
+I’m a DevOps / Platform Engineer who loves to code, automate, and optimize systems. I enjoy turning complex infrastructure problems into reliable solutions and I’m always learning, experimenting, and exploring new challenges.
 
-- I'm currently working on some awesome projects that make a difference 🛠
-- Ask me anything about DevOps, coding, engineering, automation, security, or eBPF 🐝
-- Fun fact: I love cooking, but sometimes I set off the smoke alarm 🔥
+I’m currently working on projects that make a real impact, feel free to ask me anything about DevOps, automation, cloud, security, or observability.
 
 ---
 
@@ -48,14 +46,38 @@ I'm a DevOps engineer who loves to code, automate and optimize stuffs. I have ex
 
 ## 💼 What I Do
 
-I specialize in building robust, scalable infrastructure and automation solutions. My work spans across:
+I specialize in building robust, scalable, and observable platforms, with a strong focus on reliability and automation.
 
-- **Platform Engineering & SRE**: Designing and maintaining reliable, scalable systems
-- **Cloud & Orchestration**: Working with Kubernetes, Docker, and cloud platforms
-- **Observability & Monitoring**: Implementing comprehensive monitoring and alerting solutions
-- **Automation & CI/CD**: Streamlining workflows and deployment pipelines
-- **Low-Level Systems**: Exploring eBPF for kernel-level observability and performance optimization
-- **Security**: Implementing security best practices in infrastructure and applications
+### 🧱 Platform Engineering & SRE
+- Designing and operating highly available, resilient systems
+- Improving reliability, performance, and operational maturity
+
+### ☁️ Cloud & Orchestration
+- Containerized workloads
+- Experience across cloud and hybrid environments
+
+### 📊 Observability & Monitoring
+- Metrics, logs, and traces done right
+- Building actionable dashboards and alerts
+- Deep interest in low-level observability
+
+### 🔁 Automation & CI/CD
+- Infrastructure as Code
+- Automated build, test, and deployment pipelines
+
+### 🐝 Low-Level Systems & eBPF
+- Kernel-level observability and performance analysis
+- Exploring eBPF for networking, security, performance and system insights
+
+### 🔐 Security
+- Security-by-design
+- Hardening systems and applying best practices
+
+---
+
+## 🚀 Always Learning
+
+I’m passionate about continuous improvement, sharing knowledge, and collaborating with others to build better infrastructures.
 
 ---
 
