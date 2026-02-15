@@ -10,6 +10,7 @@ I’m currently working on projects that make a real impact, feel free to ask me
 
 ---
 
+<!--
 ## 🚀 Stats: 
 
 <div align="center">
@@ -22,6 +23,7 @@ I’m currently working on projects that make a real impact, feel free to ask me
 </a>
 
 </div>
+-->
 
 ## 🛠️ Tech Stack
 
