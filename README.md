@@ -14,8 +14,8 @@ I build practical tooling that helps teams diagnose production issues faster, wi
 - [`podtrace`](https://github.com/gma1k/podtrace) - eBPF-driven diagnostics for Kubernetes applications (Go, Linux, observability).  
   `165+ stars`, `11 forks`
 - [`k8s`](https://github.com/gma1k/k8s) - practical Kubernetes automation tasks and workflows.
+- [`useful-scripts`](https://github.com/gma1k/useful-scripts) - practical automation scripts for day-to-day ops tasks.
 - [`snake-ebpf`](https://github.com/gma1k/snake-ebpf) - fun eBPF side project exploring kernel-level mechanics.
-- [`flux-helm-wp`](https://github.com/gma1k/flux-helm-wp) - learning project for Flux CD and GitOps on GKE.
 
 ## Core areas
 
@@ -45,6 +45,6 @@ I build practical tooling that helps teams diagnose production issues faster, wi
 
 ## Connect
 
-- Email: [ghassan+github@malke.nl](mailto:ghassan+github@malke.nl)
-- LinkedIn: [gmalk](https://www.linkedin.com/in/gmalk/)
-- Meetup: [profile](https://www.meetup.com/members/398144352/)
+<a href="mailto:ghassan+github@malke.nl" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/gmalk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="LinkedIn"></a>
+<a href="https://www.meetup.com/members/398144352/" target="_blank"><img src="https://img.shields.io/badge/Meetup-red?style=flat-square&logo=meetup&labelColor=red" alt="Meetup"></a>
