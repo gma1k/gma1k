@@ -1,92 +1,37 @@
-## <a href="https://github.com/gma1k"><img src="https://readme-typing-svg.demolab.com/?lines=Ghassan+Malke;Linux+Engineer;DevOps+Platform+Engineer+SRE;Orchestration+Automation;Observability+Cloud;Always+learning+new+things;And+exploring+new+technologies" alt="Typing SVG"></a>  🐧
+# Ghassan Malke
 
----
+Platform Engineer / SRE focused on Kubernetes reliability, observability, and low-level Linux tooling.
 
-## ⚡ Introducing
+I build practical tooling that helps teams diagnose production issues faster, with a strong focus on Go, eBPF, and GitOps.
 
-I’m a DevOps / Platform Engineer who loves to code, automate, and optimize systems. I enjoy turning complex infrastructure problems into reliable solutions and I’m always learning, experimenting, and exploring new challenges.
+## What I'm focused on right now
 
-I’m currently working on projects that make a real impact, feel free to ask me anything about DevOps, automation, cloud, security, or observability.
+- Building `podtrace`: eBPF-powered diagnostics for Kubernetes workloads.
+- Improving developer/operator feedback loops through observability-first tooling.
+- Experimenting with GitOps patterns and Kubernetes automation.
+- Contributing to cloud-native open source where it aligns with daily platform work.
 
----
+## Featured projects
 
-<!--
-## 🚀 Stats: 
+- [`podtrace`](https://github.com/gma1k/podtrace) - eBPF-driven diagnostics for Kubernetes applications (Go, Linux, observability).  
+  `165+ stars`, `11 forks`
+- [`k8s`](https://github.com/gma1k/k8s) - practical Kubernetes automation tasks and workflows.
+- [`snake-ebpf`](https://github.com/gma1k/snake-ebpf) - fun eBPF side project exploring kernel-level mechanics.
+- [`flux-helm-wp`](https://github.com/gma1k/flux-helm-wp) - learning project for Flux CD and GitOps on GKE.
 
-<div align="center">
+## Core areas
 
-<a href="https://github.com/gma1k">
-  <img height="180em" src="https://github-readme-stats-github-readme-stats-team.vercel.app/api?username=gma1k&theme=holi" alt="GitHub stats" />
-</a>
-<a href="https://github.com/gma1k">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gma1k&layout=compact&theme=holi" alt="Top Languages" />
-</a>
+- **Platform Engineering:** resilient systems, operability, and reliability practices.
+- **Observability:** metrics/logs/traces plus low-level diagnostics.
+- **Kubernetes + GitOps:** cluster operations, deployment workflows, and automation.
+- **Linux + eBPF:** kernel-level visibility for troubleshooting and performance tuning.
 
-</div>
--->
+## Tech I use most
 
-## 🛠️ Tech Stack
+`Go` `Linux` `eBPF` `Kubernetes` `Docker` `Bash` `Python` `Terraform` `Ansible` `Prometheus` `Grafana`
 
-<div align="center">
+## Connect
 
-<a href="https://github.com/gma1k"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
-<a href="https://github.com/gma1k"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
-<a href="https://github.com/gma1k"><img src="https://img.shields.io/badge/eBPF-FF6B6B?style=for-the-badge&logo=linux&logoColor=white" alt="eBPF" /></a>
-<a href="https://github.com/gma1k"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-<a href="https://github.com/gma1k"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
-<a href="https://github.com/gma1k"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-<a href="https://github.com/gma1k"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
-<a href="https://github.com/gma1k"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-<a href="https://github.com/gma1k"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" /></a>
-<a href="https://github.com/gma1k"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /></a>
-<a href="https://github.com/gma1k"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /></a>
-<a href="https://github.com/gma1k"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></a>
-
-</div>
-
----
-
-## 💼 What I Do
-
-I specialize in building robust, scalable, and observable platforms, with a strong focus on reliability and automation.
-
-### 🧱 Platform Engineering & SRE
-- Designing and operating highly available, resilient systems
-- Improving reliability, performance, and operational maturity
-
-### ☁️ Cloud & Orchestration
-- Containerized workloads
-- Experience across cloud and hybrid environments
-
-### 📊 Observability & Monitoring
-- Metrics, logs, and traces done right
-- Building actionable dashboards and alerts
-- Deep interest in low-level observability
-
-### 🔁 Automation & CI/CD
-- Infrastructure as Code
-- Automated build, test, and deployment pipelines
-
-### 🐝 Low-Level Systems & eBPF
-- Kernel-level observability and performance analysis
-- Exploring eBPF for networking, security, performance and system insights
-
-### 🔐 Security
-- Security-by-design
-- Hardening systems and applying best practices
-
----
-
-## 🚀 Always Learning
-
-I’m passionate about continuous improvement, sharing knowledge, and collaborating with others to build better infrastructures.
-
----
-
-## 📫 How to reach me
-
-You can contact me by email or let's be connected:
-
-<a href="mailto:ghassan+github@malke.nl" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/gmalk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="LinkedIn"></a>
-<a href="https://www.meetup.com/members/398144352/" target="_blank"><img src="https://img.shields.io/badge/Meetup-red?style=flat-square&logo=meetup&labelColor=red" alt="Meetup"></a>
+- Email: [ghassan+github@malke.nl](mailto:ghassan+github@malke.nl)
+- LinkedIn: [gmalk](https://www.linkedin.com/in/gmalk/)
+- Meetup: [profile](https://www.meetup.com/members/398144352/)
