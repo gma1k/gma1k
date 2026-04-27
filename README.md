@@ -1,31 +1,32 @@
-## <a href="https://github.com/gma1k"><img src="https://readme-typing-svg.demolab.com/?lines=Ghassan+Malke;Linux+Engineer;DevOps+Platform+Engineer+SRE;Orchestration+Automation;Observability+Cloud;Always+learning+new+things;And+exploring+new+technologies" alt="Typing SVG"></a>  🐧
+Platform Engineer / SRE focused on Kubernetes reliability, observability, and low-level Linux tooling.
 
----
+I build practical tooling that helps teams diagnose production issues faster, with a strong focus on Go, eBPF, GitOps, and AI-driven DevOps automation.
 
-## ⚡ Introducing
+## What I'm focused on right now
 
-I’m a DevOps / Platform Engineer who loves to code, automate, and optimize systems. I enjoy turning complex infrastructure problems into reliable solutions and I’m always learning, experimenting, and exploring new challenges.
+- Building `podtrace`: eBPF-powered diagnostics for Kubernetes workloads.
+- Improving developer/operator feedback loops through observability-first tooling.
+- Experimenting with GitOps patterns and Kubernetes automation.
+- Applying AI to engineering operations and software delivery workflows.
+- Contributing to cloud-native open source where it aligns with daily platform work.
 
-I’m currently working on projects that make a real impact, feel free to ask me anything about DevOps, automation, cloud, security, or observability.
+## Featured projects
 
----
+- [`podtrace`](https://github.com/gma1k/podtrace) - eBPF-driven diagnostics for Kubernetes applications (Go, Linux, observability).  
+  Currently building: deeper troubleshooting workflows for real-world production incidents.
+- [`k8s`](https://github.com/gma1k/k8s) - practical Kubernetes automation tasks and workflows.
+- [`useful-scripts`](https://github.com/gma1k/useful-scripts) - practical automation scripts for day-to-day ops tasks.
+- [`snake-ebpf`](https://github.com/gma1k/snake-ebpf) - fun eBPF side project exploring kernel-level mechanics.
 
-<!--
-## 🚀 Stats: 
+## Core areas
 
-<div align="center">
+- **Platform Engineering:** resilient systems and reliable operations.
+- **Observability:** metrics, logs, traces, and low-level diagnostics.
+- **Kubernetes + GitOps:** cluster operations and delivery automation.
+- **AI in DevOps + Intelligent Automation:** AI-assisted incident response and delivery workflows.
+- **Linux + eBPF:** kernel-level visibility for troubleshooting and performance tuning.
 
-<a href="https://github.com/gma1k">
-  <img height="180em" src="https://github-readme-stats-github-readme-stats-team.vercel.app/api?username=gma1k&theme=holi" alt="GitHub stats" />
-</a>
-<a href="https://github.com/gma1k">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gma1k&layout=compact&theme=holi" alt="Top Languages" />
-</a>
-
-</div>
--->
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -44,48 +45,7 @@ I’m currently working on projects that make a real impact, feel free to ask me
 
 </div>
 
----
-
-## 💼 What I Do
-
-I specialize in building robust, scalable, and observable platforms, with a strong focus on reliability and automation.
-
-### 🧱 Platform Engineering & SRE
-- Designing and operating highly available, resilient systems
-- Improving reliability, performance, and operational maturity
-
-### ☁️ Cloud & Orchestration
-- Containerized workloads
-- Experience across cloud and hybrid environments
-
-### 📊 Observability & Monitoring
-- Metrics, logs, and traces done right
-- Building actionable dashboards and alerts
-- Deep interest in low-level observability
-
-### 🔁 Automation & CI/CD
-- Infrastructure as Code
-- Automated build, test, and deployment pipelines
-
-### 🐝 Low-Level Systems & eBPF
-- Kernel-level observability and performance analysis
-- Exploring eBPF for networking, security, performance and system insights
-
-### 🔐 Security
-- Security-by-design
-- Hardening systems and applying best practices
-
----
-
-## 🚀 Always Learning
-
-I’m passionate about continuous improvement, sharing knowledge, and collaborating with others to build better infrastructures.
-
----
-
-## 📫 How to reach me
-
-You can contact me by email or let's be connected:
+## Connect
 
 <a href="mailto:ghassan+github@malke.nl" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/gmalk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="LinkedIn"></a>
