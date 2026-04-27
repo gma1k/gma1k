@@ -1,12 +1,13 @@
 Platform Engineer / SRE focused on Kubernetes reliability, observability, and low-level Linux tooling.
 
-I build practical tooling that helps teams diagnose production issues faster, with a strong focus on Go, eBPF, and GitOps.
+I build practical tooling that helps teams diagnose production issues faster, with a strong focus on Go, eBPF, GitOps, and AI-driven DevOps automation.
 
 ## What I'm focused on right now
 
 - Building `podtrace`: eBPF-powered diagnostics for Kubernetes workloads.
 - Improving developer/operator feedback loops through observability-first tooling.
 - Experimenting with GitOps patterns and Kubernetes automation.
+- Applying AI to engineering operations and software delivery workflows.
 - Contributing to cloud-native open source where it aligns with daily platform work.
 
 ## Featured projects
@@ -21,6 +22,7 @@ I build practical tooling that helps teams diagnose production issues faster, wi
 - **Platform Engineering:** resilient systems, operability, and reliability practices.
 - **Observability:** metrics/logs/traces plus low-level diagnostics.
 - **Kubernetes + GitOps:** cluster operations, deployment workflows, and automation.
+- **AI in DevOps + Intelligent Automation:** practical use of AI for incident response, delivery acceleration, and engineering productivity.
 - **Linux + eBPF:** kernel-level visibility for troubleshooting and performance tuning.
 
 ## Tech Stack
