@@ -13,16 +13,17 @@ I build practical tooling that helps teams diagnose production issues faster, wi
 ## Featured projects
 
 - [`podtrace`](https://github.com/gma1k/podtrace) - eBPF-driven diagnostics for Kubernetes applications (Go, Linux, observability).  
+  Currently building: deeper troubleshooting workflows for real-world production incidents.
 - [`k8s`](https://github.com/gma1k/k8s) - practical Kubernetes automation tasks and workflows.
 - [`useful-scripts`](https://github.com/gma1k/useful-scripts) - practical automation scripts for day-to-day ops tasks.
 - [`snake-ebpf`](https://github.com/gma1k/snake-ebpf) - fun eBPF side project exploring kernel-level mechanics.
 
 ## Core areas
 
-- **Platform Engineering:** resilient systems, operability, and reliability practices.
-- **Observability:** metrics/logs/traces plus low-level diagnostics.
-- **Kubernetes + GitOps:** cluster operations, deployment workflows, and automation.
-- **AI in DevOps + Intelligent Automation:** practical use of AI for incident response, delivery acceleration, and engineering productivity.
+- **Platform Engineering:** resilient systems and reliable operations.
+- **Observability:** metrics, logs, traces, and low-level diagnostics.
+- **Kubernetes + GitOps:** cluster operations and delivery automation.
+- **AI in DevOps + Intelligent Automation:** AI-assisted incident response and delivery workflows.
 - **Linux + eBPF:** kernel-level visibility for troubleshooting and performance tuning.
 
 ## Tech Stack
