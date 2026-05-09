@@ -1,5 +1,3 @@
-# Ghassan Malke
-
 Platform Engineer & SRE who works from the kernel up.
 
 I specialize in eBPF-powered tooling, Kubernetes internals, and low-level Linux observability.
