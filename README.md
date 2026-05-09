@@ -8,7 +8,7 @@ building the kind of diagnostics that tell you *why* something is broken, not ju
 
 ## What I'm building
 
-### [`podtrace`](https://github.com/gma1k/podtrace) — eBPF-driven diagnostics for Kubernetes
+### [`Podtrace`](https://github.com/gma1k/podtrace) — eBPF-driven diagnostics for Kubernetes
 Full-stack observability for Kubernetes pods — from kernel events to HTTP, DNS, gRPC,
 databases, and distributed traces. Zero instrumentation required.
 
